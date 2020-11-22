@@ -10,7 +10,7 @@ start_time = time.time()
 r53client = boto3.client('route53')
 
 # Constants
-_API_KEY = "67c2751c-15e4-4959-ba6b-36e097865d9b"
+_API_KEY = ""
 _API_ENDPOINT: str = "https://reg-names.com/api/"
 _DOMAIN_FILE = sys.argv[1]
 
