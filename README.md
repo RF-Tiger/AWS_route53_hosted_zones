@@ -13,17 +13,17 @@ Example:
 ```
 # python3 white-domains-auto-reg.py example.txt
 
-dailysweet-women1.com available, continue... 
-dailysweet-women1.com ns-1517.awsdns-61.org 
+devtest1.com available, continue... 
+devtest1.com ns-1517.awsdns-61.org 
 ns-1552.awsdns-02.co.uk ns-764.awsdns-31.net ns-334.awsdns-41.com 
-Registration for dailysweet-women1.com started 
-1. dailysweet-women1.com 
+Registration for devtest1.com started 
+1. devtest1.com
 NS change done 
 ```
 
 File syntax example.txt: `domain_name|us_ip|eu_ip|as_ip|oc_ip  or  *.domain_name|us_ip|eu_ip|as_ip|oc_ip`
 ```
-dailysweet-women1.com|5.101.46.124|79.110.24.124|172.105.33.72|172.104.44.49
+devtest1.com|5.101.46.124|79.110.24.124|172.105.33.72|172.104.44.49
 *.devtestapi3.io|127.0.0.1|127.0.0.1|127.0.0.1|127.0.0.1
 ```
 
