@@ -23,7 +23,7 @@ NS change done
 
 File syntax example.txt: `domain_name|us_ip|eu_ip|as_ip|oc_ip  or  *.domain_name|us_ip|eu_ip|as_ip|oc_ip`
 ```
-devtest1.com|5.101.46.124|79.110.24.124|172.105.33.72|172.104.44.49
+devtest1.com|10.0.0.1|10.0.0.2|10.0.0.3|10.0.0.4
 *.devtestapi3.io|127.0.0.1|127.0.0.1|127.0.0.1|127.0.0.1
 ```
 
